@@ -2,6 +2,8 @@
 
 I'm a CSE Student and will be graduating from Stamford University Bangladesh.
 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Tasrif007.Tasrif007)
+
 📈 **My GitHub Stats:**
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tasrif007&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
