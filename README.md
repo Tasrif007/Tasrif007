@@ -4,7 +4,7 @@ I'm a CSE Student and will be graduating from Stamford University Bangladesh.
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Tasrif007.Tasrif007)
 
-<img align="right" alt="GIF" src="https://github.com/Tasrif007/Tasrif007/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 📈 **My GitHub Stats:**
 
