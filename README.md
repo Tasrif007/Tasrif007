@@ -1,6 +1,5 @@
 ### Hi, I'm Md. Tasriful Hoque Mozumder  👋
 
-<img src="/profile_image.jpg" alt="Profile Header Image"/>
 
 
 Here are some ideas to get you started:
