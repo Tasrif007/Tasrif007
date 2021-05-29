@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, I'm Md. Tasriful Hoque Mozumder  👋
 
-<!--
-**Tasrif007/Tasrif007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="/profile_image.jpg" alt="Profile Header Image"/>
+
 
 Here are some ideas to get you started:
 
