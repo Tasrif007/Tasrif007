@@ -1,4 +1,4 @@
-### Hi, I'm <a href="https://gkassym.netlify.app" target="_blank">Md.Tasriful Hoque Mozumder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Md.Tasriful Hoque Mozumder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a CSE Student and will be graduating from Stamford University Bangladesh.
 
