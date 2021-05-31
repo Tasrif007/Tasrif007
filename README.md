@@ -11,5 +11,5 @@ I'm a CSE Student and will be graduating from Stamford University Bangladesh.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tasrif007&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/78270149/120137322-d931cd00-c1f5-11eb-921c-14c30dad56d0.gif?raw=true" width="408" height="318" />
 
