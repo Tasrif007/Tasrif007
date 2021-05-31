@@ -12,3 +12,6 @@ I'm a CSE Student and will be graduating from Stamford University Bangladesh.
 </p>
 
 <img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
+
+
+https://user-images.githubusercontent.com/78270149/120137115-6e809180-c1f5-11eb-94e1-7402cec03d3e.mp4
